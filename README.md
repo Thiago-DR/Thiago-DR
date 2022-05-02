@@ -1,10 +1,11 @@
 <h2 align="center">👋 Hi there! I'm Thiago </h2>
 
 <div align="center"> 
-  <a href="https://instagram.com/thiago_odr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/thiago_odr" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dourado.thg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dourado-thg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:dourado.thg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/thiago_odr" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  
+  
 </div>
 
 <h3 align="center"> Language and Tools </h3>
@@ -28,7 +29,7 @@
   <img  height="180rem" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thiago-dr&show_icons=true&hide_border=false&title_color=6000AB&icon_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
   <img  height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-dr&hide_title=true&card_width=288&title_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
 
- ![Snake Animation](https://github.com/thiago-dr/thiago-dr/blob/output/github-contribution-grid-snake.svg)   
+![GitHub Snake Light](https://github.com/thiago-dr/thiago-dr/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 
