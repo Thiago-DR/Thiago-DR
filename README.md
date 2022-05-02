@@ -29,5 +29,4 @@
   <img  height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-DR&hide_title=true&card_width=288&title_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
 </div>
   
-![GitHub Snake Light](https://github.com/Thiago-DR/Thiago-DR/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/Thiago-DR/Thigao-DR/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake Animation](https://github.com/Thiago-DR/Thiago-DR/blob/output/github-contribution-grid-snake.svg)
