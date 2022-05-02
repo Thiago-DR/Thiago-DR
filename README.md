@@ -1,44 +1,33 @@
-## 👋 Hi there, I'm Thiago
+<h2 align="center">👋 Hi there! I'm Thiago </h2>
 
-<img width="300rem" align="right" src="https://github.com/thiago-dr/thiago-dr/blob/master/frontpage_programing.svg" />
+<div align="center"> 
+  <a href="https://instagram.com/thiago_odr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/thiago_odr" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dourado.thg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dourado-thg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-<!-- [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist] -->
-
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<!-- [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist] -->
-<!-- [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist] -->
-
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-
-<!-- [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
-
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<h3 align="center"> Language and Tools </h3>
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Thiago-Js" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thiago-HTML" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thiago-CSS" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thiago-CSS" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Thiago-Node" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Thiago-Java" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Thiago-MySQL" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Thiago-Git" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
 <br />
-<br />
 
-<img align="left" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Thiago-DR&show_icons=true&hide_border=false&title_color=6000AB&icon_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9" />
+---
 
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://thiago-dr.github.io/portfolio/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://thiago-dr.github.io/portfolio/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/thiago_odr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/thiago_odr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/dourado-thg#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/dourado-thg#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/thiago_odr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/thiago_odr#gh-dark-mode-only)
+<div align="center">
+  <a href="https://github.com/Thiago-DR">
+  <img  height="180rem" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Thiago-DR&show_icons=true&hide_border=false&title_color=6000AB&icon_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
+  <img  height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-DR&hide_title=true&card_width=288&title_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
+</div>
+  
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
