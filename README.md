@@ -27,6 +27,8 @@
   <a href="https://github.com/Thiago-DR">
   <img  height="180rem" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Thiago-DR&show_icons=true&hide_border=false&title_color=6000AB&icon_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
   <img  height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-DR&hide_title=true&card_width=288&title_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
+
+ ![Snake Animation](https://github.com/Thiago-DR/Thiago-DR/blob/output/github-contribution-grid-snake.svg)   
 </div>
   
-![Snake Animation](https://github.com/Thiago-DR/Thiago-DR/blob/output/github-contribution-grid-snake.svg)
+
