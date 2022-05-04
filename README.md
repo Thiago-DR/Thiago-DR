@@ -3,31 +3,36 @@
 <div align="center"> 
   <a href="https://www.linkedin.com/in/dourado-thg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dourado.thg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/thiago_odr" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  
-  
+  <a href="https://instagram.com/thiago_odr"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<h3 align="center"> Language and Tools </h3>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Js" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thiago-HTML" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thiago-CSS" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thiago-CSS" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Thiago-Node" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Thiago-Java" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Thiago-MySQL" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Thiago-Git" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+### 🛠 Languages and Tools
 
-<br />
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+### 🌱 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+ 
+</p>
 
 ---
 
 <div align="center">
   <a href="https://github.com/thiago-dr">
-  <img  height="180rem" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thiago-dr&show_icons=true&include_all_commits=true&hide_border=false&title_color=6000AB&icon_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
-  <img  height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-dr&hide_title=true&card_width=288&title_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
+  <img  height="160rem" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thiago-dr&show_icons=true&include_all_commits=true&hide_border=false&title_color=6000AB&icon_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
+  <img  height="160rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-dr&layout=compact&card_width=288&title_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
 
 ![GitHub Snake Light](https://github.com/thiago-dr/thiago-dr/blob/output/github-contribution-grid-snake.svg)
 </div>
