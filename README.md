@@ -18,15 +18,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-### 🌱 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
- 
-</p>
-
 ---
 
 <div align="center">
@@ -34,7 +25,6 @@
   <img  height="160rem" alt="Thiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thiago-dr&show_icons=true&include_all_commits=true&hide_border=false&title_color=6000AB&icon_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
   <img  height="160rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-dr&layout=compact&card_width=288&title_color=6000AB&bg_color=0E0E0E&text_color=EDDDF9&border_color=6000AB" />
 
-![GitHub Snake Light](https://github.com/thiago-dr/thiago-dr/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 
